@@ -1,40 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
-    <url>/2019/10/10/%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>/* ！！！！！！！！！！<br>** 每一项的 : 后面均有一个空格<br>** 且 : 为英文符号<br>** ！！！！！！！！！！<br>*/</p>
-<p>title:<br>/* 文章标题，可以为中文 */</p>
-<p>date:<br>/* 建立日期，如果自己手动添加，请按固定格式<br>** 就算不写，页面每篇文章顶部的发表于……也能显示<br>** 只要在主题配置文件中，配置了 created_at 就行<br>** 那为什么还要自己加上？<br>** 自定义文章发布的时间<br>*/</p>
-<p>updated:<br>/* 更新日期，其它与上面的建立日期类似<br>** 不过在页面每篇文章顶部，是更新于……<br>** 在主题配置文件中，是 updated_at<br>*/</p>
-<p>permalink:<br>/* 若站点配置文件下的 permalink 配置了 title<br>** 则可以替换文章 URL 里面的 title（文章标题）<br>*/</p>
-<p>categories:<br>/* 分类，支持多级，比如：</p>
-<ul>
-<li>technology</li>
-<li>computer</li>
-<li>computer-aided-art<br>则为technology/computer/computer-aided-art<br>（不适用于 layout: page）</li>
-</ul>
-<p>*/</p>
-<p>tags:<br>/* 标签<br>** 多个可以这样写[标签1,标签2,标签3]<br>** （不适用于 layout: page）<br>*/</p>
-<p>description:<br>/* 文章的描述，在每篇文章标题下方显示<br>** 并且作为网页的 description 元数据<br>** 如果不写，则自动取 <a id="more"></a><br>** 之前的文字作为网页的 description 元数据<br>** 建议每篇文章都务必加上！<br>*/</p>
-<p>keywords:<br>/* 关键字，并且作为网页的 keywords 元数据<br>** 如果不写，则自动取 tags 里的项<br>** 作为网页的 keywords 元数据<br>*/</p>
-<p>comments:<br>/* 是否开启评论<br>** 默认值是 true<br>** 要关闭写 false<br>*/</p>
-<p>layout:<br>/* 页面布局，默认值是 post，默认值可以在<br>** 站点配置文件中修改 default_layout<br>** 另：404 页面可能用到，将其值改为 false<br>*/</p>
-<p>type:<br>/* categories，目录页面<br>** tags，标签页面<br>** picture，用来生成 group-pictures<br>** quote？<br>** <a href="https://reuixiy.github.io/uncategorized/2010/01/01/test.html" target="_blank" rel="noopener">https://reuixiy.github.io/uncategorized/2010/01/01/test.html</a><br>*/</p>
-<p>photos:<br>/* Gallery support，用来支持画廊 / 相册，用法如下：</p>
-<ul>
-<li>photo_url_1</li>
-<li>photo_url_2</li>
-<li>photo_url_3<br><a href="https://reuixiy.github.io/uncategorized/2010/01/01/test.html" target="_blank" rel="noopener">https://reuixiy.github.io/uncategorized/2010/01/01/test.html</a></li>
-</ul>
-<p>*/</p>
-<p>link:<br>/* 文章的外部链接<br>** <a href="https://reuixiy.github.io/uncategorized/2010/01/01/test.html" target="_blank" rel="noopener">https://reuixiy.github.io/uncategorized/2010/01/01/test.html</a><br>*/</p>
-<p>image:<br>/* 自定义的文章摘要图片，只在页面展示，文章内消失<br>** 此项只有参考本文 5.14 节配置好，否则请勿添加！<br>*/</p>
-<p>sticky:<br>/* 文章置顶<br>** 此项只有参考本文 5.15 节配置好，否则请勿添加！<br>*/</p>
-<p>password:<br>/* 文章密码，此项只有参考教程：<br>** <a href="http://shenzekun.cn/hexo的next主题个性化配置教程.html" target="_blank" rel="noopener">http://shenzekun.cn/hexo的next主题个性化配置教程.html</a><br>** 第 24 节，配置好，否则请勿添加！<br>** 发现还是有 bug 的，就是右键在新标签中打开<br>** 然后无论是否输入密码，都能看到内容<br>*/</p>
-]]></content>
-  </entry>
-  <entry>
     <title>6a5s1d6</title>
     <url>/2019/10/09/se/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
